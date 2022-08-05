@@ -118,7 +118,3 @@ Bibtex Entry:
 IEEE Format Citation:
 
 M. S. Minhas, “Transfer Learning for Semantic Segmentation using PyTorch DeepLab v3,” GitHub.com/msminhas93, 12-Sep-2019. [Online]. Available: https://github.com/msminhas93/DeepLabv3FineTuning.
-
-test 이상입니다!
-
-앞으로 이런 방식으로 git commit 해보려 합니다 okay ?
