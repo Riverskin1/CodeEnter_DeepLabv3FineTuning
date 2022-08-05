@@ -121,4 +121,4 @@ M. S. Minhas, “Transfer Learning for Semantic Segmentation using PyTorch DeepL
 
 test 이상입니다!
 
-앞으로 이런 방식으로 git commit 해보려 합니다
+앞으로 이런 방식으로 git commit 해보려 합니다 okay ?
